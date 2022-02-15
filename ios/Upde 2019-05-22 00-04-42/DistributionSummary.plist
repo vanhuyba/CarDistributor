@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Upde.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FBA143CE91915893B41D7FC686DEC7030416184B</string>
+				<key>dateExpires</key>
+				<string>5/20/20</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>A4CD6X8465.com.upit.asia</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>A4CD6X8465</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>A4CD6X8465.com.upit.asia</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Upde.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>0be15302-92ac-4fce-be09-b0eda96464ee</string>
+				<key>name</key>
+				<string>Upde dev provisioning</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>A4CD6X8465</string>
+				<key>name</key>
+				<string>Nguyen Huy Hoang</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
